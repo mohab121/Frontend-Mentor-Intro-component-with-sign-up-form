@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mohab121/Frontend-Mentor-Base-Apparel-coming-soon-page)
-- Live Site URL: [Add live site URL here](https://mohab121.github.io/Frontend-Mentor-Base-Apparel-coming-soon-page/)
+- Solution URL: [Add solution URL here](https://github.com/mohab121/Frontend-Mentor-Intro-component-with-sign-up-form)
+- Live Site URL: [Add live site URL here](Frontend Mentor | Intro component with sign up form)
 
 ## My process
 
